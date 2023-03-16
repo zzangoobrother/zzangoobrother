@@ -14,6 +14,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FF0000?logo=intellij%20idea&logoColor=white)
 
-![zzangoobrother's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhhong0930&show_icons=true&theme=radical)
+![zzangoobrother's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzangoobrother&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzangoobrother&layout=compact&theme=radical)](https://github.com/zzangoobrother/github-readme-stats)
