@@ -6,7 +6,7 @@
 - 모르는 문제에 주저하지 않고 질문하며 내꺼로 만들기 위해 노력합니다.
 
 
-intellij plugin : <a href='https://plugins.jetbrains.com/plugin/23196-java-boiler-craft/edit' target='_blank' >java-boiler-craft</a>
+#### intellij plugin : <a href='https://plugins.jetbrains.com/plugin/23196-java-boiler-craft/edit' target='_blank' >java-boiler-craft</a>
 
 ### Skills
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
