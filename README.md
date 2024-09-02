@@ -18,5 +18,3 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FF0000?logo=intellij%20idea&logoColor=white)
 
 ![zzangoobrother's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzangoobrother)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzangoobrother&layout=compact)](https://github.com/zzangoobrother/github-readme-stats)
