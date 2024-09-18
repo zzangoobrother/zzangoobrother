@@ -17,4 +17,4 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FF0000?logo=intellij%20idea&logoColor=white)
 
-![zzangoobrother's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzangoobrother)
+![zzangoobrother's GitHub stats](https://github.com/Boiler-Craft/java-boiler-craft)
