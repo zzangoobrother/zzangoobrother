@@ -6,7 +6,7 @@
 - 모르는 문제에 주저하지 않고 질문하며 내꺼로 만들기 위해 노력합니다.
 
 
-#### intellij plugin : <a href='https://plugins.jetbrains.com/plugin/23196-java-boiler-craft/edit' target='_blank' >java-boiler-craft</a>
+#### intellij plugin : <a href='https://github.com/Boiler-Craft/java-boiler-craft' target='_blank' >java-boiler-craft</a>
 
 ### Skills
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -17,4 +17,4 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FF0000?logo=intellij%20idea&logoColor=white)
 
-![zzangoobrother's GitHub stats](https://github.com/Boiler-Craft/java-boiler-craft)
+![zzangoobrother's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzangoobrother)
