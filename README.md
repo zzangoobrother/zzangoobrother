@@ -6,6 +6,7 @@
 - 모르는 문제에 주저하지 않고 질문하며 내꺼로 만들기 위해 노력합니다.
 
 
+#### 블로그 : <a href='https://zzangoobrother.github.io/BLOG/' target='_blank' >블로그 주소</a>
 #### intellij plugin : <a href='https://github.com/Boiler-Craft/java-boiler-craft' target='_blank' >java-boiler-craft</a>
 
 ### Skills
